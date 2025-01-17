@@ -7,5 +7,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "stylelint": "^16.13.2",
+    "stylelint-config-standard": "^37.0.0"
+  }
 }
