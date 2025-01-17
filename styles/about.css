@@ -1,7 +1,7 @@
 /* General styles */
 body {
     font-family: Arial, sans-serif;
-    background-color: #ffffff;
+    background-color: #fff; /* Shortened hex code */
     margin: 0;
     padding: 0;
 }
